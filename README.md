@@ -1,30 +1,10 @@
 # DarkBK.v4
 script bokep.no vpn update no limite seconds
 
-# Cara install
-
-Buka termux anda
+# Cara install Tools
+Buka tautan ini untuk melihat tutorial
 #
-$ apt update && aot upgrade
-#
-$ pkg install figlet
-#
-$ pkg install git
-#
-$ pkg install python2
-#
-$ git clone https://github.com/FARHAN-KBM/DarkBK.v4
-#
-$ pip2 install requests
-
-# Cara membuka tools
-Pastikan untuk verifikasi sekali sahaja!!!
-#
-$ bash veri.sh
-#
-subscribe chennel saya:)
-#
-$ python2 FHANS.py
+https://github.com/FARHAN-KBM/DarkBK.v4.wiki.git
 
 # Get Id & Pass script
 #
