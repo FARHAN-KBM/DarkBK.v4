@@ -20,7 +20,7 @@ $ pip2 install requests
 # Cara membuka tools
 Pastikan untuk verifikasi sekali sahaja!!!
 #
-$ bash VERI.sh
+$ bash veri.sh
 #
 subscribe chennel saya:)
 #
