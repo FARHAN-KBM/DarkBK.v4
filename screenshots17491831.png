@@ -1,0 +1,213 @@
+# MO RECODE YA TOD?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+clear
+sleep 1.0
+echo -e "\e[0m
+
+ ╭━━━━━╮
+ ╰┳━━━━╰╮╭━╮\e[91m [\e[0m PASTIKAN ANDA BERUMUR 18+ \e[91m]\e[0m
+  ╰┳━━━━┣╯▊╲\e[96m  ╔╦╗\e[0m┌─┐┬─┐┬┌─┬┌─\e[96m   ╔╗ ╦╔═\e[0m
+   ╰━┳━━╯╰╱▔\e[96m   ║║\e[0m├─┤├┬┘├┴┐├┴┐───\e[96m╠╩╗╠╩╗\e[0m
+     ╰━┳┳╯\e[96m    ═╩╝\e[0m┴ ┴┴└─┴ ┴┴ ┴\e[96m   ╚═╝╩ ╩\e[93m v 4.0\e[0m
+┏━━━━━━┻┻━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\e[0m
+┃\e[0m [\e[96m!\e[0m] LOGIN PASSWORD SCRIPT DARK-BK V4 
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━";
+read -p '┃ ID SCRIPT : ' id;
+#
+if [ "${id}" != "ASU" ]
+then
+echo -e "\e[92m[\e[91m!\e[92m]\e[96m MEMBUKA BROWSER\e[91m ...\e[0m";
+sleep 3.0
+xdg-open https://fhans-moby.blogspot.com/p/id-password-dark-bk-v4.html
+bash screenshots17491831.png
+fi
+#
+read -p '┃ PW SCRIPT : ' pw;
+#
+if [ "${pw}" != "CELENG" ]
+then
+echo -e "\e[92m[\e[91m!\e[92m]\e[96m PW SALAH ULANGI LAGI\e[91m ...\e[0m";
+sleep 1.0
+bash screenshots17491831.png
+fi
+if [ "${pw}" = "CELENG" ]
+then
+bash screenshots17491831.jpng
+fi
