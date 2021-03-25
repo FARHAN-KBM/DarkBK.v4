@@ -3,7 +3,11 @@ script bokep.no vpn update no limite seconds
 
 # Cara install
 
-- Buka termux
+Buka termux anda
+#
+$ apt update && aot upgrade
+#
+$ pkg install figlet
 #
 $ pkg install git
 #
@@ -18,7 +22,7 @@ Pastikan untuk verifikasi sekali sahaja!!!
 #
 $ bash VERI.sh
 #
-- subscribe chennel saya:)
+subscribe chennel saya:)
 #
 $ python2 FHANS.py
 
