@@ -11,7 +11,7 @@ $ pkg install git
 $ pkg install python2
 #
 $ cd DarkBK.v4
-
+#
 VERIFIKASI BAHWA ANDA 18+ SEKALI SAHAJA :
 #
 $ bash veri.sh
