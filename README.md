@@ -8,6 +8,8 @@ $ pkg install figlet
 #
 $ pkg install git
 #
+$ git clone https://github.com/FARHAN-KBM/DarkBK.v4
+#
 $ pkg install python2
 #
 $ cd DarkBK.v4
